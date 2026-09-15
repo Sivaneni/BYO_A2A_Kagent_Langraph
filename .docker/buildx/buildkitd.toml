@@ -1,5 +1,0 @@
-debug = true
-
-[registry."kodekloud-hub:5000"]
-  http = true
-  insecure = true

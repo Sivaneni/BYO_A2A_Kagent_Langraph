@@ -1,0 +1,6 @@
+.terminal_logs/
+.kube/
+.docker/
+.config/
+.ssh/
+.bashrc
